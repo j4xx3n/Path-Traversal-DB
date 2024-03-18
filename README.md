@@ -1,6 +1,6 @@
 # Domain Path Traversal Data Collector
 
-This Bash script is designed to gather path traversal data from a list of domains and add it to an SQLite database. It is intended to run on Kali Linux and requires the installation of `hakrawler` using the command:
+This Bash script is designed to gather path traversal data from a list of domains and add it to an SQLite database. It is intended to run on Kali Linux and can utilize the SQLite database browser that comes pre-installed with Kali. It requires the installation of `hakrawler` using the command:
 
 `sudo apt install hakrawler`
 
